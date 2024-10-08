@@ -1,1 +1,1 @@
-Built a simple in memory todo list in node.js using Commander.js
+Built a simple in memory todo list in the CLI using fs and commander.js
